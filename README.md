@@ -4,8 +4,10 @@ Pre-configured Google Colab notebooks to run [AUTOMATIC1111/stable-diffusion-web
 
 ## Versions
 
-- standard: basic WebUI with extensions listed below. Standard version takes about 5 minutes to setup.
-- controlnet: standard + ControlNet extensions and models. ControlNet version takes 1 or 2 minutes more than the standard version to setup given additional ControlNet models to download.
+| Colab | Version | Description |
+| --- | --- | --- |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datamonet/sd-webui-colab/blob/main/sd_webui_standard.ipynb)| Standard | Basic WebUI with extensions listed below. Standard version takes about 5 minutes to setup |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datamonet/sd-webui-colab/blob/main/sd_webui_controlnet.ipynb)| ControlNet | Standard + ControlNet extensions and models, which takes 1 or 2 minutes more than the standard version to setup given additional ControlNet models to download |
 
 ## Extensions
 
@@ -25,4 +27,4 @@ The following are additional extensions for ControlNet version.
 
 ## Models
 
-Only Stable Diffusion v1.5 model is pre-configured: [v1-5-pruned-emaonly.safetensors](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) from [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) 
+Only Stable Diffusion v1.5 model is pre-configured: [v1-5-pruned-emaonly.safetensors](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) from [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
