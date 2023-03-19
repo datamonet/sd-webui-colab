@@ -13,7 +13,7 @@ Click one of the two buttons above to run the Colab Notebook:
 
 <img width="450" src="https://user-images.githubusercontent.com/595772/226143659-07f31032-e4ec-4e1a-92a6-0aeb60e1f3e7.png">
 
-Click "Run Anyway" in the warning window:
+Click "Run anyway" in the warning window:
 
 <img width="450" src="https://user-images.githubusercontent.com/595772/226143733-834ace15-0708-42d4-8029-7f4e6da53ad0.png">
 
@@ -41,7 +41,7 @@ The following are additional extensions for ControlNet version.
 
 Only Stable Diffusion v1.5 model is pre-configured: [v1-5-pruned-emaonly.safetensors](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) from [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 
-You can use pre-installed [batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) to easily install additional models (checkpoint, lora, embedding, vae, etc.) of your choice.
+You can use pre-installed [batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) extension to easily install additional models (checkpoint, lora, embedding, vae, etc.) of your choice.
 
 <img width="1101" alt="Screenshot 2023-03-18 at 6 46 53 PM" src="https://user-images.githubusercontent.com/595772/226144004-bf2802c2-ef14-48f4-b988-d2021be986b9.png">
 
