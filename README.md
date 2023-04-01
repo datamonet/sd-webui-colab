@@ -39,9 +39,14 @@ The following are additional extensions for ControlNet version.
 
 ## Models
 
-Only Stable Diffusion v1.5 model is pre-configured: [v1-5-pruned-emaonly.safetensors](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors) from [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+Three models are pre-loaded:
 
-You can use pre-installed [batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) extension to easily install additional models (checkpoint, lora, embedding, vae, etc.) of your choice.
+- [Stable Diffusion v1.5 model](https://huggingface.co/runwayml/stable-diffusion-v1-5): [v1-5-pruned-emaonly.safetensors](https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors)
+- [Deliberate](https://civitai.com/models/4823/deliberate): [deliberate_v2.safetensors](https://huggingface.co/datamonet/Deliberate/resolve/main/deliberate_v2.safetensors)
+- [DreamShaper](https://civitai.com/models/4384/dreamshaper): [dreamshaper_4BakedVae.safetensors](https://huggingface.co/datamonet/DreamShaper/resolve/main/dreamshaper_4BakedVae.safetensors)
+
+
+Install additional models (checkpoint, lora, embedding, vae, etc.) using pre-installed [batchlinks-webui](https://github.com/etherealxx/batchlinks-webui) extension:
 
 <img width="1101" alt="Screenshot 2023-03-18 at 6 46 53 PM" src="https://user-images.githubusercontent.com/595772/226144004-bf2802c2-ef14-48f4-b988-d2021be986b9.png">
 
