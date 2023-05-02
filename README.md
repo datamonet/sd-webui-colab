@@ -81,7 +81,7 @@ Or you can save the text into a `txt` file and load it in:
 
 <img width="800" src="https://user-images.githubusercontent.com/595772/226144691-c368a966-c28b-4692-9f51-511faf92408a.png">
 
-Then, click Download ALL button to download the models. 
+Then, click Download ALL button to download the models.
 
 You can switch to Colab to check the downloading progress:
 
@@ -102,3 +102,5 @@ Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 3.5, Seed: 932584919, Size: 640
 ```
 
 <img width="400" src="https://user-images.githubusercontent.com/595772/226147118-cc234b16-e08b-47bc-97fb-5d7c0d4b95a8.png">
+
+
